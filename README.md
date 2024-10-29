@@ -8,7 +8,7 @@
 
 
 <h3 align="center"> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <img src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-d40211fe2d3d2b775ab5/dog-gif.webp" alt="dog-gif" width="40" /> /></h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <img src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-d40211fe2d3d2b775ab5/dog-gif.webp" alt="dog-gif" width="40" /></h3>
  <h5 align="center">
    <i> Studio Ghibli 🔛🔝 </i>
 </h5>
