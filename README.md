@@ -6,10 +6,9 @@
 <a href="https://open.spotify.com/user/8l7dkwqoocaawkniagdk7t1ad"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
-<div style="width:100%;height:0;padding-bottom="80%";position:relative;"><iframe src="https://giphy.com/embed/wJ5WONPpo83V2gCTsF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/MISOPUP-dog-misopup-miso-pup-wJ5WONPpo83V2gCTsF">via GIPHY</a></p>
 
 <h3 align="center"> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <img src="<iframe src="https://giphy.com/embed/wJ5WONPpo83V2gCTsF" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/MISOPUP-dog-misopup-miso-pup-wJ5WONPpo83V2gCTsF">via GIPHY</a></p>f" alt="Dog" width="40" /></h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/wJ5WONPpo83V2gCTsF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/MISOPUP-dog-misopup-miso-pup-wJ5WONPpo83V2gCTsF">via GIPHY</a></p> /></h3>
  <h5 align="center">
    <i> Studio Ghibli 🔛🔝 </i>
 </h5>
@@ -27,7 +26,7 @@
 <p width=48%">
 💻 I primarily use Matlab / Simulink / Roadrunner
 <p width=48%">     
-⌨️ Python
+⌨️ Python is my current language as choice
    </i>
 </p>
 
@@ -53,16 +52,16 @@
 <h3 align="left">🏋️‍♂️ Fun Facts About Me:</h3>
 <i>
 <p align="left">
-⛷I used to freestyle ski competitively, and tore my ACL 🤕
+⛷ I used to freestyle ski competitively, and tore my ACL 🤕
 </p>  
 <p align="left">
-🎗I’m a student representative for the Canadian Cancer Society 💞
+🎗 I’m a student rep for the Canadian Cancer Society 💞
 </p>  
 <p align="left"> 
-🔋I’m a Software Developer for Waterloo’s Eco Car Team 🚗
+🔋 I’m a Software Developer for Waterloo’s Eco Car Team 🚗
 </p>  
 <p align="left">
-👑I was ranked top 100 NA on MK11, as a Scorpion one trick🔥
+👑 I was ranked top 100 NA on MK11, as a Scorpion one trick 🔥
 </p>  
 </i>
 </p>
