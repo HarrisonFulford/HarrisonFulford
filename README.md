@@ -6,6 +6,7 @@
 <a href="https://open.spotify.com/user/8l7dkwqoocaawkniagdk7t1ad"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
+<div style="width:100%;height:0;padding-bottom="80%";position:relative;"><iframe src="https://giphy.com/embed/wJ5WONPpo83V2gCTsF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/MISOPUP-dog-misopup-miso-pup-wJ5WONPpo83V2gCTsF">via GIPHY</a></p>
 
 <h3 align="center"> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <img src="<iframe src="https://giphy.com/embed/wJ5WONPpo83V2gCTsF" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/MISOPUP-dog-misopup-miso-pup-wJ5WONPpo83V2gCTsF">via GIPHY</a></p>f" alt="Dog" width="40" /></h3>
