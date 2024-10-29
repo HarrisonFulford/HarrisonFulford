@@ -8,14 +8,14 @@
 
 
 <h3 align="center"> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <img src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-d40211fe2d3d2b775ab5/dog-gif.webp" alt="dog-gif" width="40" /></h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <img src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/v1.0.0/dog-gif.webp" alt="dog-gif" width="40" /></h3>
  <h5 align="center">
    <i> Studio Ghibli 🔛🔝 </i>
 </h5>
 
 
 
-<img align="right" src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-66e2e74b31edfb222eb3/Ghibly.webp" alt="Ghibly-Gif" width="48%" />
+<img align="right" src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/v1.0.0/Ghibly.webp" alt="Ghibly-Gif" width="48%" />
 <p width=49%">
    <h3 align="left">🇨🇦 I'm a 1st Year Waterloo CS Student</h3>
 </p>
@@ -31,7 +31,7 @@
    </i>
 </p>
 
-<img align="left" src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-92dc60673fb9ae60d840/Ski-Gif-Github.gif" alt="Ski-Gif-Github" width="48%" />
+<img align="left" src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/v1.0.0/Ski-Gif-Github.1.gif" alt="Ski-Gif-Github" width="48%" />
 
 <br>
 </br>
