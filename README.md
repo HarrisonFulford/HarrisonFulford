@@ -44,7 +44,7 @@
 <br>
 </br>
 <br>
-</br>
+
 
 <h3 align="right">😎 Cool GitHub Stats:</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=harrisonfulford&show_icons=true&locale=en" alt="harrisonfulford" width="48%" />
