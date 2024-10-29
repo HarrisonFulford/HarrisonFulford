@@ -33,10 +33,7 @@
 
 <img align="left" src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/v1.0.0/Ski-Gif-Github.1.gif" alt="Ski-Gif-Github" width="48%" />
 
-<br>
-</br>
-<br>
-</br>
+
 
 <h3 align="right">💬 Languages & Tools:</h3>
 <img align="right" src="https://skillicons.dev/icons?i=py,matlab,anaconda,unity,javascript,nodejs,react,mongodb,tensorflow,opencv,pytorch,bash,git,raspberrypi&perline=7" alt="" width="48%"/>
