@@ -15,7 +15,7 @@
 
 
 
-<img align="right" src="<iframe src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-66e2e74b31edfb222eb3/Ghibly.webp" width="480" height="470" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-oje6kPRIef6Gk">via GIPHY</a></p>" alt="Ghibli" width="48%" />
+<img align="right" src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-66e2e74b31edfb222eb3/Ghibly.webp" alt="Ghibly-Gif" width="48%" />
 <p width=49%">
    <h3 align="left">🇨🇦 I'm a 1st Year Waterloo CS Student</h3>
 </p>
