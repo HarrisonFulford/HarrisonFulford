@@ -27,7 +27,7 @@
 <p width=48%">
 💻 I primarily use Matlab / Simulink / Roadrunner
 <p width=48%">     
-⌨️ Python is my current language of choice
+⌨️ Python is my current favourite language
    </i>
 </p>
 
@@ -41,19 +41,16 @@
 <h3 align="right">💬 Languages & Tools:</h3>
 <img align="right" src="https://skillicons.dev/icons?i=py,matlab,anaconda,unity,javascript,nodejs,react,mongodb,tensorflow,opencv,pytorch,bash,git,raspberrypi&perline=7" alt="" width="48%"/>
 
-<br>
-</br>
-<br>
-</br>
+
 
 <h3 align="right">😎 Cool GitHub Stats:</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=harrisonfulford&show_icons=true&locale=en" alt="harrisonfulford" width="48%" />
 
 <p align="left">
-<h3 align="left">🏋️‍♂️ Fun Facts About Me:</h3>
+<h3 align="left">🦆 Fun Facts About Me:</h3>
 <i>
 <p align="left">
-⛷ I used to freestyle ski competitively, and tore my ACL 🤕
+⛷ I used to freestyle ski competitively, but I tore my ACL 🤕
 </p>  
 <p align="left">
 🎗 I’m a student rep for the Canadian Cancer Society 💞
