@@ -10,7 +10,7 @@
 <h3 align="center"> 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <img src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-d40211fe2d3d2b775ab5/dog-gif.webp" alt="dog-gif" width="40" /></h3>
    <i> Studio Ghibli 🔛🔝 </i>
-</h5>
+
 
 
 <img align="right" src="<iframe src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-66e2e74b31edfb222eb3/Ghibly.webp" width="480" height="470" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-hayao-miyazaki-oje6kPRIef6Gk">via GIPHY</a></p>" alt="Ghibli" width="48%" />
