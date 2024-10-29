@@ -54,7 +54,7 @@
 <h3 align="left">🦆 Fun Facts About Me:</h3>
 <i>
 <p align="left">
-⛷ I used to freestyle ski competitively, but I tore my ACL 🤕
+⛷ I used to freestyle ski competitively but I tore my ACL 🤕
 </p>  
 <p align="left">
 🎗 I’m a student rep for the Canadian Cancer Society 💞
@@ -63,7 +63,7 @@
 🔋 I’m a Software Developer for Waterloo’s Eco Car Team 🚗
 </p>  
 <p align="left">
-👑 I was ranked top 100 NA on MK11, as a Scorpion one trick 🔥
+👑 I was ranked top 100 NA on MK11 as a Scorpion one trick 🔥
 </p>  
 </i>
 </p>
