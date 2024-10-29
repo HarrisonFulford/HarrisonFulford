@@ -39,7 +39,7 @@
 </br>
 
 <h3 align="right">💬 Languages & Tools:</h3>
-<img align="right" src="https://skillicons.dev/icons?i=py,socket.io,javascript,nodejs,react,mongodb,tensorflow,opencv,pytorch,bash,git,raspberrypi&perline=8" alt="" width="48%"/>
+<img align="right" src="https://skillicons.dev/icons?i=py,matlab,simulink,roadrunner,anaconda,javascript,nodejs,react,mongodb,tensorflow,opencv,pytorch,bash,git,raspberrypi&perline=8" alt="" width="48%"/>
 
 <br>
 </br>
