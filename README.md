@@ -8,7 +8,7 @@
 
 
 <h3 align="center"> 
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <div style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/wJ5WONPpo83V2gCTsF" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/MISOPUP-dog-misopup-miso-pup-wJ5WONPpo83V2gCTsF">via GIPHY</a></p> /></h3>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer <img src="[https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c03449c4-3926-4aba-8bf6-bcdd2bbad94f](https://github.com/HarrisonFulford/HarrisonFulford/releases/download/untagged-d40211fe2d3d2b775ab5/dog-gif.webp)" alt="Money" width="40" /> /></h3>
  <h5 align="center">
    <i> Studio Ghibli 🔛🔝 </i>
 </h5>
@@ -26,7 +26,7 @@
 <p width=48%">
 💻 I primarily use Matlab / Simulink / Roadrunner
 <p width=48%">     
-⌨️ Python is my current language as choice
+⌨️ Python is my current language of choice
    </i>
 </p>
 
