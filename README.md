@@ -17,7 +17,7 @@
 
 <img align="right" src="https://github.com/HarrisonFulford/HarrisonFulford/releases/download/v1.0.0/Ghibly.webp" alt="Ghibly-Gif" width="48%" />
 <p width=49%">
-   <h3 align="left">🇨🇦 I'm a 1st Year Waterloo CS Student</h3>
+   <h3 align="left">🇨🇦 I'm a 2nd Year Waterloo CS Student</h3>
 </p>
 
 <p width=48%">
@@ -25,7 +25,7 @@
 🤖 I'm currently learning and becoming proficient with C++
 </p>
 <p width=48%">
-💻 I primarily use Matlab / Simulink / Roadrunner
+💻 I primarily use Python / TensorFlow
 <p width=48%">     
 ⌨️ Python is my current favourite language
    </i>
@@ -54,7 +54,7 @@
 <h3 align="left">🦆 Fun Facts About Me:</h3>
 <i>
 <p align="left">
-⛷ I used to freestyle ski competitively but I tore my ACL 🤕
+⛷ I used to freestyle ski competitively which led to many crazy injuries 🤕
 </p>  
 <p align="left">
 🎗 I’m a student rep for the Canadian Cancer Society 💞
