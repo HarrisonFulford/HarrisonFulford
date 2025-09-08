@@ -54,7 +54,7 @@
 <h3 align="left">🦆 Fun Facts About Me:</h3>
 <i>
 <p align="left">
-⛷ I used to freestyle ski competitively and got crazy injuries 🤕
+⛷ I used to freestyle ski competitively, that's me at 13 ☝️
 </p>  
 <p align="left">
 🎗 I’m a student rep for the Canadian Cancer Society 💞
